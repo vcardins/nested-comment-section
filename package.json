@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "markdown-to-jsx": "6.9.1",
+    "markdown-to-jsx": "6.11.4",
     "material-icons-react": "1.0.4",
     "react": "16.8.0-alpha.1",
     "react-dom": "16.8.0-alpha.1",
